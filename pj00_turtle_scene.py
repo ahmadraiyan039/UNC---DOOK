@@ -1,6 +1,6 @@
 """It spells out your favorite college either Duke or UNC, depending on the user."""
 
-__author__ = "730403230"
+
 
 from turtle import Turtle, done
 
